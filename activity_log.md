@@ -11,3 +11,4 @@
 - [2026-03-24T12:59:15Z] docs: improve inline documentation
 - [2026-03-24T18:34:03Z] chore: update dependencies to latest versions
 - [2026-04-15T13:01:45Z] test: add unit tests for core module
+- [2026-04-15T14:17:13Z] fix: handle null pointer exception
